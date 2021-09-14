@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **phenela.luengo@gmail.com**
 
-- ⚡ Random fact **I'm a massive shoe addict 👠**
+- ⚡ Random fact about me: **I'm a massive shoe addict 👠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
