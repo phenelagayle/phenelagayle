@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phenela</h1>
+<h2 align="center">Hi 👋, I'm Megan</h2>
 <h3 align="center">Cardiac Nurse turned Back-End Developer</h3>
 
 - 🔭 I’m currently working on [Trek📍](https://www.trek-app.com/)
